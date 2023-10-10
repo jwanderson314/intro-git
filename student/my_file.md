@@ -1,12 +1,12 @@
 # About Me
-My name is: Dhruv.
+My name is: Jason.
 
 ## Food
-My favorite food is: Pad Thai.
+My favorite food is: Shrimp Scampi.
 
 ## 
-My hobbies are: PC games, swimming, basketball.
+My hobbies are: Tennis, hockey, coding.
 
 ##
-My favorite artist/band is: Nirvana.
+My favorite artist/band is: Pink Floyd.
 
